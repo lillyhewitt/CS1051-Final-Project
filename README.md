@@ -1,6 +1,6 @@
 # Minecraft Mod
 
-Final Project where we introduce new items in a Minecraft mod for Introduction to Problem Solving and Programming in Python. 
+Final Project where we introduce new items in a Minecraft mod for Introduction to Problem Solving and Programming in Python. We were able to code in any language and we choose to write our program in Java.
 
 preproposal: https://github.com/lillyhewitt/CS1051-Final-Project/blob/main/preproposal.md 
 
