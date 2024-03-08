@@ -1,5 +1,7 @@
 # Minecraft Mod
 
+Final Project where we introduce new items in a Minecraft mod for Introduction to Problem Solving and Programming in Python. 
+
 preproposal: https://github.com/lillyhewitt/CS1051-Final-Project/blob/main/preproposal.md 
 
 proposal: https://github.com/lillyhewitt/CS1051-Final-Project/blob/main/preproposal.md
